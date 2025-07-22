@@ -6,9 +6,6 @@
 </p>
 
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/Mucyo-Ivan/Mucyo-Ivan/assets/your-banner-image.png" alt="Mucyo Ivan Banner" width="70%" />
-</p>
 
 <!-- Animated Icons Row -->
 <p align="center">
