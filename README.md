@@ -1,59 +1,83 @@
-<!-- Profile README for Mucyo-Ivan -->
+<!-- Standout Profile README for Mucyo Ivan -->
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey!+I'm+Mucyo+Ivan;Frontend+Developer+%26+UI%2FUX+Designer;Welcome+to+my+GitHub+Profile!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Mucyo+Ivan;Frontend+Developer+%26+UI%2FUX+Designer;Welcome+to+my+Creative+World!+" alt="Typing SVG" />
 </p>
 
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://github.com/Mucyo-Ivan/Mucyo-Ivan/assets/your-banner-image.png" alt="Mucyo Ivan Banner" width="70%" />
+</p>
+
+<!-- Animated Icons Row -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,java,php,mysql,postgresql,mongodb,figma,xd,ps,html,css,git,github,vscode,linux" height="48"/>
+</p>
+
+<!-- Badges & Fun Animated SVGs -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat-square&logo=react&color=61dafb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-NodeJS-green?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Designer-UI%2FUX-critical?style=flat-square&logo=figma&color=F24E1E&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Commits-175-36BCF7?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-69-36BCF7?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Commit%20Streak-17%20days-orange?style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-🌟 **Frontend Developer** & **UI/UX Designer**  
-💡 Turning ideas into delightful digital experiences  
-🎨 Obsessed with simplicity & elegance
+✨ Hi! I’m **Mucyo Ivan**, a passionate **Frontend Developer** and **UI/UX Designer** dedicated to crafting seamless, beautiful digital experiences.
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Java, PHP
-- **Frameworks & Libraries:** React.js, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Design:** Figma, Adobe XD, Photoshop
+- 💻 **Languages:** JavaScript, TypeScript, Java, PHP  
+- ⚛️ **Frameworks/Libraries:** React.js, Node.js  
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
+- 🎨 **Design Tools:** Figma, Adobe XD, Photoshop  
+- 🛠️ **Other:** HTML5, CSS3, Git, GitHub, VS Code, Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-- ✨ **SMARTEN Project**  
-- ✨ **Rwalent Project**  
-- ✨ **Movesmart Project**  
-<sub>*Want to know more about my projects? Ask me or check my pinned repos!*</sub>
+- 🚦 **SMARTEN Project:** Intelligent automation for smarter living
+- 🛡️ **Rwalent Project:** Secure, scalable web solutions
+- 🚗 **Movesmart Project:** Next-gen mobility platform
+
+<sub>Want to know more? Check out my pinned repos or ask me directly!</sub>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mucyo-Ivan&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-Ivan&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mucyo-Ivan&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Mucyo Ivan GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-Ivan&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<!-- Animated Commit Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mucyo-Ivan&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<!-- Commit Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Mucyo-Ivan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📅 2025 Achievements
+
+- 🔥 **175 commits** (so far in 2025!)
+- 📦 **69 repositories** and counting
+- ⏱️ **Longest commit streak:** **17 days**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/ivan.mucyo" target="_blank">
@@ -71,16 +95,14 @@
 
 ## ⚡ Fun Facts
 
-- ⚽ Football enthusiast
-- 📚 Book lover (*especially scientific books*)
-- 🎧 Music keeps me energized
+- ⚽ Football enthusiast and team player!
+- 📚 Love reading especially scientific books
+- 🎧 Music is my daily inspiration
 
 ---
 
 <p align="center">
-  <b>“Great design is not just how it looks and feels, but how it works.”</b>
-  <br>
-  <i>– Steve Jobs (and me!)</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&duration=2000&pause=600&color=36BCF7&vCenter=true&width=500&lines=%22Great+design+is+not+just+how+it+looks+and+feels%2C+but+how+it+works.%22+-+Steve+Jobs" alt="Quote SVG"/>
 </p>
 
 ---
