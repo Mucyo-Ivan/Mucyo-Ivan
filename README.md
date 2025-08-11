@@ -68,7 +68,7 @@
 
 ## 📅 2025 Achievements
 
-- 🔥 **235 commits** (so far in 2025!)
+- 🔥 **270 commits** (so far in 2025!)
 - 📦 **71 repositories** and counting
 - ⏱️ **Longest commit streak:** **17 days**
 
@@ -93,7 +93,7 @@
 ## ⚡ Fun Facts
 
 - ⚽ Football enthusiast and team player!
-- 📚 Love reading especially scientific books
+- 📚 Love reading, especially scientific books
 - 🎧 Music is my daily inspiration
 
 ---
