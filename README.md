@@ -68,7 +68,7 @@
 
 ## 📅 2025 Achievements
 
-- 🔥 **366 commits** (so far in 2025!)
+- 🔥 **400 commits** (so far in 2025!)
 - 📦 **71 repositories** and counting
 - ⏱️ **Longest commit streak:** **17 days**
 
