@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Mucyo+Ivan;Frontend+Developer+%26+UI%2FUX+Designer;Welcome+to+my+Creative+World!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Mucyo+Ivan;Fullstack+Developer+%26+UI%2FUX+Designer;Welcome+to+my+Creative+World!+" alt="Typing SVG" />
 </p>
 
 <!-- Profile Banner -->
@@ -14,13 +14,13 @@
 
 <!-- Badges & Fun Animated SVGs -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat-square&logo=react&color=61dafb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fullstack-ReactJS%20%26%20NodeJS-informational?style=flat-square&logo=react&color=61dafb&logoColor=black"/>
   <img src="https://img.shields.io/badge/Backend-NodeJS-green?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Designer-UI%2FUX-critical?style=flat-square&logo=figma&color=F24E1E&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Commits-175-36BCF7?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Commits-420-36BCF7?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Public%20Repos-69-36BCF7?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Commit%20Streak-17%20days-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Commit%20Streak-20%20days-orange?style=flat-square"/>
 </p>
 
 ---
@@ -68,9 +68,10 @@
 
 ## 📅 2025 Achievements
 
-- 🔥 **400 commits** (so far in 2025!)
+- 🔥 **420 commits** (so far in 2025!)
 - 📦 **71 repositories** and counting
-- ⏱️ **Longest commit streak:** **17 days**
+- ⏱️ **Longest commit streak:** **20 days**
+- 🏆 **Top Contributor** in multiple open-source projects
 
 ---
 
@@ -86,6 +87,9 @@
   <a href="https://wa.me/250738567540" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="mailto:mucyoivan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -95,6 +99,7 @@
 - ⚽ Football enthusiast and team player!
 - 📚 Love reading, especially scientific books
 - 🎧 Music is my daily inspiration
+- 🌍 Advocate for diversity in tech and community-driven innovation
 
 ---
 
