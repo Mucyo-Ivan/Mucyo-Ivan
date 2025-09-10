@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-✨ Hi! I’m **Mucyo Ivan**, a passionate **Frontend Developer** and **UI/UX Designer** dedicated to crafting seamless, beautiful digital experiences.
+✨ Hi! I’m **Mucyo Ivan**, a passionate **Fullstack Developer** and **UI/UX Designer** dedicated to crafting seamless, beautiful digital experiences.
 
 - 💻 **Languages:** JavaScript, TypeScript, Java, PHP  
 - ⚛️ **Frameworks/Libraries:** React.js, Node.js  
