@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Backend-NodeJS-green?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Designer-UI%2FUX-critical?style=flat-square&logo=figma&color=F24E1E&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Commits-420-36BCF7?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Commits-500-36BCF7?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Public%20Repos-69-36BCF7?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Commit%20Streak-20%20days-orange?style=flat-square"/>
 </p>
@@ -56,7 +56,7 @@
 
 <!-- Animated Commit Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mucyo-Ivan&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mucyo-Ivan&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20Increased%20Activity!%20🔥" alt="Contribution Graph"/>
 </p>
 
 <!-- Commit Streak -->
@@ -68,7 +68,7 @@
 
 ## 📅 2025 Achievements
 
-- 🔥 **420 commits** (so far in 2025!)
+- 🔥 **500 commits** (so far in 2025!)
 - 📦 **71 repositories** and counting
 - ⏱️ **Longest commit streak:** **20 days**
 - 🏆 **Top Contributor** in multiple open-source projects
